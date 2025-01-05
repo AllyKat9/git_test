@@ -1,1 +1,2 @@
 "Hello World, Glen here and this is my first Git x GitHub x Visual Stuios exercise on The Odin Project"
+"I'm back and I've edited the commit message method*"
